@@ -49,7 +49,7 @@ git config --global user.email "Ваша почта"
     Для получения адреса:
     * Сначала находим автора репозитория на **GitHub**
     * Затем нажимаем на зеленую кнопку Code:
-    ![repositories](repositories).jpg)
+    ![repositories](repositories.jpg)
 
 
 Для создания нового файла в репозитории можно воспользоваться отдим из способов:
